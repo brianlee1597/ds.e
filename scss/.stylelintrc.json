@@ -4,13 +4,5 @@
     "stylelint-config-prettier",
     "stylelint-prettier/recommended"
   ],
-  "plugins": ["stylelint-prettier"],
-  "husky": {
-    "hooks": {
-      "pre-commit": "lint-staged"
-    }
-  },
-  "lint-staged": {
-    "*.scss": "npm run lint:fix"
-  }
+  "plugins": ["stylelint-prettier"]
 }
