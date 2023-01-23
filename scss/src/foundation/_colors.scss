@@ -23,20 +23,20 @@
  * Spacing........................Global fixed set of spacing variables
  */
 
- /*=============================================
+/*=============================================
     #Global Text Colors
 =============================================*/
 $body-text-color: var(--dse-body-text-color, $dark) !default;
 $body-bg-color: var(--dse-body-bg-color, $white) !default;
 
- /*=============================================
+/*=============================================
     #Button Colors
 =============================================*/
 $btn-primary-color: var(--dse-btn-primary-color, $white) !default;
 $btn-primary-bg: var(--dse-btn-primary-bg, $green) !default;
 $bnn-primary-bg-hover: var(--dse-btn-primary-bg-hover, $green-light) !default;
 
- /*=============================================
+/*=============================================
     #Forms
 =============================================*/
 $form-color: var(--dse-form-color, $dark) !default;
