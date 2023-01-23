@@ -11,6 +11,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "husky": "^8.0.3",
+    "lint-staged": "^13.1.0",
     "normalize-scss": "^7.0.1",
     "prettier": "^2.8.3",
     "stylelint": "^14.16.1",
